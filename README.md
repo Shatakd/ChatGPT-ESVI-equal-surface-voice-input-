@@ -23,7 +23,7 @@ PRDs
 
 Metrics, experimentation & launch strategy
 
-Key Insight
+🧠 Key Insight
 
 Adoption doesn’t always fail because of missing technology — it often fails because the product doesn’t give the feature a fair chance to be used.
 
